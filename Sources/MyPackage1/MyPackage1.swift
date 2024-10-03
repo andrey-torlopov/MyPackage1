@@ -2,7 +2,7 @@
 // https://docs.swift.org/swift-book
 
 public struct MyPackage1 {
-    public var name: String = "MyPackage1"
+    public var name: String = "MyPackage1_2"
     
     public init() { }
     
